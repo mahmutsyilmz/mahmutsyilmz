@@ -2,14 +2,14 @@
   <a href="https://github.com/mahmutsyilmz">
   </a>
 
-  <h1>👋 Merhaba, Ben Mahmut Sami Yılmaz (mahmutsyilmz)</h1>
+  <h1>👋 Hi, I'm Mahmut Sami Yılmaz (mahmutsyilmz)</h1>
   <p>
-    Tutkulu bir <strong>Backend Yazılım Geliştiricisiyim</strong>. Özellikle <strong>Java</strong> ve <strong>Spring Boot</strong> ekosisteminde, kullanıcı odaklı, ölçeklenebilir ve sağlam uygulamalar geliştirmeye odaklanıyorum. Karmaşık problemleri çözmeyi ve yenilikçi teknolojilerle interaktif deneyimler yaratmayı seviyorum.
+    I'm a passionate <strong>Backend Software Developer</strong>. I specialize in the <strong>Java</strong> and <strong>Spring Boot</strong> ecosystem, focusing on developing user-centric, scalable, and robust applications. I love solving complex problems and creating interactive experiences with innovative technologies.
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/mahmutsamiyilmaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:[mahmutsyilmazz@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="mailto:mahmutsyilmazz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 
   <p>
@@ -19,35 +19,35 @@
 
 ---
 
-## Öne Çıkan Projelerim
+## My Featured Projects
 
-Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
+Below you can find some of the projects I've worked on:
 
 <br />
 
 <details open>
   <summary>
-    <h3 style="display: inline-block; margin: 0;">⚽ GoalCast - Futbol Tahmin Uygulaması</h3>
+    <h3 style="display: inline-block; margin: 0;">⚽ GoalCast - Football Prediction Application</h3>
   </summary>
   <br />
   <p>
-    Kullanıcıların yaklaşan futbol maçları için skor tahminleri yapabildiği, puan kazanıp rekabete dahil olabildiği kapsamlı bir web uygulaması. Etkileşimli ve eğlenceli bir deneyim sunar.
+    A comprehensive web application where users can make score predictions for upcoming football matches, earn points, and compete. It offers an interactive and fun experience.
   </p>
   <p>
-    <strong>🔗 Canlı Demo (Frontend):</strong> <a href="https://thegoalcast.netlify.app" target="_blank">thegoalcast.netlify.app</a><br />
-    <strong>📂 GitHub Repoları:</strong>
+    <strong>🔗 Live Demo (Frontend):</strong> <a href="https://thegoalcast.netlify.app" target="_blank">thegoalcast.netlify.app</a><br />
+    <strong>📂 GitHub Repositories:</strong>
     <a href="https://github.com/mahmutsyilmz/goalcast-backend" target="_blank">Backend (Java & Spring Boot)</a> |
     <a href="https://github.com/mahmutsyilmz/goalcast-ui" target="_blank">Frontend (Vanilla JS)</a>
   </p>
-  <h4>🌟 Temel Özellikler:</h4>
+  <h4>🌟 Key Features:</h4>
   <ul>
-    <li>JWT ile Güvenli Kullanıcı Yönetimi ve E-posta Doğrulama (RabbitMQ ile Asenkron)</li>
-    <li>Detaylı Maç Tahmin Sistemi ve Akıllı Puanlama Algoritması</li>
-    <li>Liderlik Tablosu ve Kullanıcı Bildirimleri (Site İçi & E-posta)</li>
-    <li>Kapsamlı Admin Paneli (Lig, Maç Yönetimi, Sonuç Girişi)</li>
-    <li>CI/CD (GitHub Actions ile Azure & Netlify Otomatik Deploy)</li>
+    <li>Secure User Management with JWT and Email Verification (Asynchronous with RabbitMQ)</li>
+    <li>Detailed Match Prediction System and Smart Scoring Algorithm</li>
+    <li>Leaderboard and User Notifications (In-Site & Email)</li>
+    <li>Comprehensive Admin Panel (League, Match Management, Result Entry)</li>
+    <li>CI/CD (Automated Deployment to Azure & Netlify with GitHub Actions)</li>
   </ul>
-  <h4>🛠️ Kullanılan Teknolojiler (Backend):</h4>
+  <h4>🛠️ Technologies Used (Backend):</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
@@ -60,7 +60,7 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
     <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
   </p>
-  <h4>🛠️ Kullanılan Teknolojiler (Frontend):</h4>
+  <h4>🛠️ Technologies Used (Frontend):</h4>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -78,24 +78,24 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
   </summary>
   <br />
   <p>
-    Kapsamlı bir blog sistemi için geliştirilmiş RESTful API. Kullanıcı yönetimi, post oluşturma ve moderasyonu, e-posta doğrulama ve Google Gemini API entegrasyonu ile yapay zeka destekli içerik özetleme gibi özellikler sunar. Angular ile geliştirilmiş modern bir arayüzü bulunmaktadır.
+    A RESTful API developed for a comprehensive blogging system. It offers features like user management, post creation and moderation, email verification, and AI-powered content summarization with Google Gemini API integration. It has a modern interface developed with Angular.
   </p>
   <p>
-    <strong>📂 GitHub Repoları:</strong>
+    <strong>📂 GitHub Repositories:</strong>
     <a href="https://github.com/mahmutsyilmz/blogging-platform" target="_blank">Backend (Java & Spring Boot)</a> |
     <a href="https://github.com/mahmutsyilmz/blogging-platform-ui" target="_blank">Frontend (Angular)</a>
   </p>
-  <h4>🌟 Temel Özellikler:</h4>
+  <h4>🌟 Key Features:</h4>
   <ul>
-    <li>JWT ile Güvenli Kullanıcı Kaydı, Giriş ve Profil Yönetimi</li>
-    <li>E-posta Doğrulama Sistemi ve Rol Bazlı Yetkilendirme</li>
-    <li>Admin Onaylı Post Oluşturma, Güncelleme ve Silme Süreçleri</li>
-    <li>Gönderilere Beğeni (Like) Ekleme Fonksiyonu</li>
-    <li>Google Gemini API ile Yapay Zeka Destekli İçerik Özetleme</li>
-    <li>Kapsamlı Admin Paneli (Kullanıcı Yönetimi, Post Onaylama, İstatistikler)</li>
-    <li>Detaylı Loglama ve Denetim İzleri</li>
+    <li>Secure User Registration, Login, and Profile Management with JWT</li>
+    <li>Email Verification System and Role-Based Authorization</li>
+    <li>Admin-Approved Post Creation, Update, and Deletion Processes</li>
+    <li>Like Functionality for Posts</li>
+    <li>AI-Powered Content Summarization with Google Gemini API</li>
+    <li>Comprehensive Admin Panel (User Management, Post Approval, Statistics)</li>
+    <li>Detailed Logging and Audit Trails</li>
   </ul>
-  <h4>🛠️ Kullanılan Teknolojiler (Backend):</h4>
+  <h4>🛠️ Technologies Used (Backend):</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
@@ -107,7 +107,7 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5"/>
     <img src="https://img.shields.io/badge/Mockito-green?style=flat-square&logo=mockito&logoColor=white" alt="Mockito"/>
   </p>
-  <h4>🛠️ Kullanılan Teknolojiler (Frontend):</h4>
+  <h4>🛠️ Technologies Used (Frontend):</h4>
   <p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
     <img src="https://img.shields.io/badge/Angular%20Material-FF4081?style=flat-square&logo=angular&logoColor=white" alt="Angular Material"/>
@@ -117,10 +117,10 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
 
 ---
 
-## 💻 Teknik Yeteneklerim ve Araçlarım
+## 💻 My Technical Skills and Tools
 
 <p align="center">
-  <!-- Buraya genel teknoloji rozetlerinizi ekleyebilirsiniz -->
+  <!-- You can add your general technology badges here -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -138,7 +138,7 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmutsyilmz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="mahmutsyilmz's GitHub Stats" width="48%"/>
@@ -148,7 +148,7 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmutsyilmz&theme=react-dark&hide_border=true&area=true&line=DB295A&point=BD305C" alt="mahmutsyilmz's Activity Graph"/>
 </p>
 
-<!-- WakaTime Entegrasyonu (Eğer kullanıyorsanız) -->
+<!-- WakaTime Integration (If you use it) -->
 <!--
 <p align="center">
   <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
@@ -160,6 +160,6 @@ Aşağıda üzerinde çalıştığım bazı projelerimi bulabilirsiniz:
 ---
 
 <div align="center">
-  <p>💡 Sürekli yeni şeyler öğrenmeye ve kendimi geliştirmeye açığım. <br /> Bana ulaşmaktan veya projelerim hakkında sohbet etmekten çekinmeyin!</p>
-  <p>⭐️ Profilimi ziyaret ettiğiniz için teşekkürler! ⭐️</p>
+  <p>💡 I am always open to learning new things and improving myself. <br /> Feel free to reach out to me or chat about my projects!</p>
+  <p>⭐️ Thank you for visiting my profile! ⭐️</p>
 </div>
