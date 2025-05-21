@@ -4,7 +4,7 @@
 
   <h1>👋 Merhaba, Ben Mahmut Sami Yılmaz (mahmutsyilmz)</h1>
   <p>
-    Tutkulu bir <strong>Backend Yazılım Geliştiricisiyim</strong> 🚀. Özellikle <strong>Java</strong> ve <strong>Spring Boot</strong> ekosisteminde, kullanıcı odaklı, ölçeklenebilir ve sağlam uygulamalar geliştirmeye odaklanıyorum. Karmaşık problemleri çözmeyi ve yenilikçi teknolojilerle interaktif deneyimler yaratmayı seviyorum.
+    Tutkulu bir <strong>Backend Yazılım Geliştiricisiyim</strong>. Özellikle <strong>Java</strong> ve <strong>Spring Boot</strong> ekosisteminde, kullanıcı odaklı, ölçeklenebilir ve sağlam uygulamalar geliştirmeye odaklanıyorum. Karmaşık problemleri çözmeyi ve yenilikçi teknolojilerle interaktif deneyimler yaratmayı seviyorum.
   </p>
 
   <p>
